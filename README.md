@@ -31,4 +31,10 @@ Write-Host https://$MYBUCKET.s3.amazonaws.com/rob-iam/index.html
 
 4. Task - Create a pipeline that uses Amazon S3 as a deployment provider
 
+- importante
+- ACL pré-configurada
+- Especifique uma lista de controle de acesso (ACL) pré-configurada do Amazon S3 para o bucket.
+- public-read
+
+
 reference: [Tutorial](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-s3deploy.html)
