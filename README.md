@@ -38,3 +38,7 @@ Write-Host https://$MYBUCKET.s3.amazonaws.com/rob-iam/index.html
 
 
 reference: [Tutorial](https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-s3deploy.html)
+
+5. Task - Enabling website hosting
+
+reference: [Tutorial](https://docs.aws.amazon.com/AmazonS3/latest/userguide/EnableWebsiteHosting.html)
