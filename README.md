@@ -10,6 +10,9 @@ AWS Tools for PowerShell
 
 ````
 $MYBUCKET= Read-Host -Prompt 'Please enter a bucket name' ; New-S3Bucket -BucketName $MYBUCKET
+
+Get-S3Bucket backtothefuture-app-sa-east-1-995800926705
+
 ````
 
 2. Task - Copy all the contents of the rob-iam folder to Amazon S3
